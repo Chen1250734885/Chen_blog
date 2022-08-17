@@ -61,6 +61,10 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
                 text: 'JS设计模式总结',
                 link: '/pages/4643cd/',
               },
+              {
+                text: 'Summary of issues at work',
+                link: '/pages/chenwork/',
+              },
             ],
           },
         ],
