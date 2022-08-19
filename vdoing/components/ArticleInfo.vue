@@ -45,7 +45,7 @@
 
         <!-- <div
           id="busuanzi_container_site_pv"
-          class="icon iconfont icon-eye"
+          class="iconfont woff"
           title="浏览量"
         >
           <span id="busuanzi_value_page_pv"></span>
